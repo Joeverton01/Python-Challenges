@@ -31,4 +31,16 @@ Qpython3, além de suas instalações.
 
 #Estruturas de Repetição, loops finitos e infinitos (For, While)
 
-#
+#Dicas de melhoria de código
+
+#Aplicações práticas
+
+#Estruturas de dados
+
+#Tuplas, Listas, Dicionários
+
+#Funções, Módulos e Pacotes
+
+#Tratamento de Erros
+
+#Exceções
