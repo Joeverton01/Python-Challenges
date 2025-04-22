@@ -1,0 +1,5 @@
+n1=input('primeiro número ')
+n2=input('segundo número ')
+soma=int(n1)+int(n2)
+print('a soma falsa é ',n1+n2)
+print('a soma real é ',soma)

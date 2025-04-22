@@ -1,0 +1,5 @@
+print('Vamos decobrir o antecessor e o sucessor de um número inteiro agora! \n ', end='--->>   ')
+n = float(input('digite o número: \n'))
+an = (n-1)
+sus = (n+1)
+print('O antecessor de {:.3f} é {} e o seu sucessor é {:.3f}'.format(n,an,sus))
