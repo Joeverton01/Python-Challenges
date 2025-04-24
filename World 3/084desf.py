@@ -5,4 +5,4 @@ leves = []
 while True:
     nome = input('Nome: ').strip()
     peso = float(input('Peso: '))
-# -->>
+# de novo
